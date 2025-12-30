@@ -7,6 +7,6 @@ public Driver(String name, String licenseNumber) {
     this.licenseNumber = licenseNumber;
 }
 public void displayDriverInfo() {
-    System.out.println("Driver: " + name + ", License: " + licenseNumber);
+    System.out.println("Driver: " + name+ ", License: " +licenseNumber);
 }
 }
